@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=500&size=24&pause=200&width=300&lines=Greetings%2C+I'm+Takuya)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=500&size=24&speed=80&deleteSpeed=120&pause=2000&color=EC4899&center=true&vCenter=true&width=500&height=50&lines=Greetings%2C+I'm+Takuya)](https://git.io/typing-svg)
 
 [![Telegram](https://img.shields.io/badge/Telegram-@TakuyaYagam1-blue?style=flat&logo=telegram)](https://t.me/TakuyaYagam1)
 [![Email](https://img.shields.io/badge/Email-i.dubetskiy.w@gmail.com-red?style=flat&logo=gmail)](mailto:i.dubetskiy.w@gmail.com)
@@ -9,60 +9,64 @@
 
 ---
 
-### Technology Stack
-
 <div align="center">
 
-**Languages**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Databases & Message Brokers**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-**DevOps & Infrastructure**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-**Monitoring**  
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-**Other**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+[![Tech Stack](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=500&size=24&speed=80&deleteSpeed=120&pause=2000&color=EC4899&center=true&vCenter=true&width=500&height=50&lines=Tech+Stack)](https://git.io/typing-svg)
 
 </div>
 
+```go
+package main
+
+type Takuya struct {
+    OS        []string
+    Languages Languages
+    Stack     Stack
+}
+
+type Languages struct {
+    Main      []string
+    Secondary []string
+}
+
+type Stack struct {
+    Backend    []string
+    Databases  []string
+    Brokers    []string
+    DevOps     []string
+    Monitoring []string
+    Other      []string
+}
+
+var me = Takuya{
+    OS: []string{"NixOS"},
+    Languages: Languages{
+        Main:      []string{"Go", "Python"},
+        Secondary: []string{"TypeScript", "C/C++"},
+    },
+    Stack: Stack{
+        Backend:    []string{"go-chi", "FastAPI", "gRPC", "WebSocket"},
+        Databases:  []string{"PostgreSQL", "MySQL", "Redis", "MongoDB"},
+        Brokers:    []string{"RabbitMQ", "Apache Kafka", "NATS"},
+        DevOps:     []string{"Docker", "Kubernetes", "GitLab CI/CD", "Github Actions"},
+        Monitoring: []string{"Grafana", "Loki", "Prometheus"},
+        Other:      []string{"Git", "ROS", "MinIO", "SeaweedFS", "ODM"},
+    },
+}
+```
+
 ---
-
-### GitHub Statistics
-
-###
 
 <div align="center">
 
-<a href="http://www.github.com/TakuyaYagam1"><img src="https://github-readme-stats.vercel.app/api?username=TakuyaYagam1&show_icons=true&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true&cache_seconds=7200" alt="TakuyaYagam1's GitHub stats" /></a>
+[![GitHub Statistics](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=500&size=24&speed=80&deleteSpeed=120&pause=2000&color=EC4899&center=true&vCenter=true&width=500&height=50&lines=GitHub+Statistics)](https://git.io/typing-svg)
 
-###
+<a href="http://www.github.com/TakuyaYagam1"><img src="https://github-readme-stats-fast.vercel.app/api?username=TakuyaYagam1&show_icons=true&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true&cache_seconds=7200" alt="TakuyaYagam1's GitHub stats" /></a>
 
 <a href="http://www.github.com/TakuyaYagam1"><img src="https://streak-stats.demolab.com/?user=TakuyaYagam1&stroke=a855f7&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
-###
+<a href="https://github.com/TakuyaYagam1"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TakuyaYagam1&langs_count=10&size_weight=0.5&count_weight=0.5&hide=html,css,scss,roff,makefile&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=86400" alt="Top Languages" /></a>
 
-<a href="https://github.com/TakuyaYagam1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakuyaYagam1&langs_count=10&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=86400" alt="Top Languages" /></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TakuyaYagam1&theme=react-dark&hide_border=true&bg_color=1c1917&color=ec4899&line=a855f7&point=ffffff&area=true&area_color=ec4899" alt="TakuyaYagam1's Activity Graph" />
 
 </div>
