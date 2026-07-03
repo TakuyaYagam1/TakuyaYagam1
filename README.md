@@ -2,8 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=500&size=24&speed=80&deleteSpeed=120&pause=2000&color=EC4899&center=true&vCenter=true&width=500&height=50&lines=Greetings%2C+I'm+Takuya)](https://git.io/typing-svg)
 
-[![Telegram](https://img.shields.io/badge/Telegram-@TakuyaYagam1-blue?style=flat&logo=telegram)](https://t.me/TakuyaYagam1)
-[![Email](https://img.shields.io/badge/Email-i.dubetskiy.w@gmail.com-red?style=flat&logo=gmail)](mailto:i.dubetskiy.w@gmail.com)
+<p align="center">
+  <a href="https://t.me/TakuyaYagam1">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="32" height="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:i.dubetskiy.w@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="32" height="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://standoff365.com/profile/TakuyaYagam1/">
+    <img src="./assets/standoff365.png" alt="Standoff 365 Bug Bounty" width="32" height="32" />
+  </a>
+</p>
 
 </div>
 
