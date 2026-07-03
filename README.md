@@ -22,6 +22,7 @@ type Takuya struct {
     OS        []string
     Languages Languages
     Stack     Stack
+    Security  []string
 }
 
 type Languages struct {
@@ -48,9 +49,14 @@ var me = Takuya{
         Backend:    []string{"go-chi", "FastAPI", "gRPC", "WebSocket"},
         Databases:  []string{"PostgreSQL", "MySQL", "Redis", "MongoDB"},
         Brokers:    []string{"RabbitMQ", "Apache Kafka", "NATS"},
-        DevOps:     []string{"Docker", "Kubernetes", "GitLab CI/CD", "Github Actions"},
+        DevOps:     []string{"Docker", "Kubernetes", "GitLab CI/CD", "GitHub Actions"},
         Monitoring: []string{"Grafana", "Loki", "Prometheus"},
         Other:      []string{"Git", "ROS", "MinIO", "SeaweedFS", "ODM"},
+    },
+    Security: []string{
+        "CTF (Attack/Defense) enjoyer",
+        "Bug bounty hunter",
+        "Team: o1d_bu7_go1d",
     },
 }
 ```
