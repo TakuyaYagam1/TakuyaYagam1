@@ -67,7 +67,7 @@ var me = Takuya{
     Security: []string{
         "CTF (Attack/Defense) enjoyer",
         "Bug bounty hunter",
-        "Team: o1d_bu7_go1d",
+        "Team: o1d_bu7_go1d (Scandal)",
     },
 }
 ```
