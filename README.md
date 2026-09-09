@@ -22,6 +22,160 @@
 
 <div align="center">
 
+[![Achievements](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=500&size=24&speed=80&deleteSpeed=120&pause=2000&color=EC4899&center=true&vCenter=true&width=500&height=50&lines=Achievements)](https://git.io/typing-svg)
+
+</div>
+
+<details>
+<summary><b>See all achievements</b></summary>
+
+<br>
+
+<!-- Hi-Tech 2026 -->
+
+<div align="center">
+
+[![Hi-Tech Future Skills 2026](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=600&size=22&speed=100000&pause=100000&color=EC4899&center=true&vCenter=true&width=700&height=40&lines=Hi-Tech+Future+Skills+2026+%E2%80%94+Gold+Medal)](https://git.io/typing-svg)
+
+**Cyber Security · Guangzhou, China**
+
+First place · **79 / 100**
+
+Security Analysis: **100 / 100** · High Technology: **100 / 100**
+
+<a href="https://api.inpdp.org/skills-passport/qhKXGvTBP8GjDmJd">
+  Official Skills Passport ↗
+</a>
+
+<br><br>
+
+<a href="https://api.inpdp.org/skills-passport/qhKXGvTBP8GjDmJd">
+  <img src="./assets/hitech-2026-cybersec-skill-pasport-title.png" width="650">
+</a>
+
+<br><br>
+
+<a href="https://api.inpdp.org/skills-passport/qhKXGvTBP8GjDmJd">
+  <img src="./assets/hitech-2026-cybersec-skill-pasport-results.png" width="750">
+</a>
+
+</div>
+
+<br>
+
+---
+
+<!-- TFC CTF 2026 -->
+
+<div align="center">
+
+[![TFC CTF 2026](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=600&size=22&speed=100000&pause=100000&color=EC4899&center=true&vCenter=true&width=700&height=40&lines=TFC+CTF+2026+%E2%80%94+1st+Place)](https://git.io/typing-svg)
+
+**Human Division**
+Team: **o1d_bu7_go1d (scandal)**
+
+<img src="./assets/tfcctf.jpg" width="850">
+
+</div>
+
+<br>
+
+---
+
+<!-- RCTF 2026 -->
+
+<div align="center">
+
+[![RCTF 2026](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=600&size=22&speed=100000&pause=100000&color=EC4899&center=true&vCenter=true&width=700&height=40&lines=RCTF+2026+%E2%80%94+3rd+Place)](https://git.io/typing-svg)
+
+**Attack / Defense CTF**
+Team: **o1d_bu7_go1d (scandal)**
+
+<img src="./assets/rctf.jpg" width="850">
+
+</div>
+
+<br>
+
+---
+
+<!-- Avito CTF 2026 -->
+
+<div align="center">
+
+[![Avito CTF 2026](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=600&size=22&speed=100000&pause=100000&color=EC4899&center=true&vCenter=true&width=700&height=40&lines=Avito+CTF+2026+%E2%80%94+3rd+Place)](https://git.io/typing-svg)
+
+Team: **o1d_bu7_go1d (scandal)**
+
+<img src="./assets/avitoctf.jpg" width="850">
+
+</div>
+
+<br>
+
+---
+
+<!-- GO CTF 2026 -->
+
+<div align="center">
+
+[![GO CTF 2026](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=600&size=22&speed=100000&pause=100000&color=EC4899&center=true&vCenter=true&width=700&height=40&lines=GO+CTF+2026+%E2%80%94+Finalist)](https://git.io/typing-svg)
+
+**Attack / Defense CTF**
+Team: **o1d_bu7_go1d**
+
+**1st place — Academic Ranking**
+**3rd place — Overall Qualification Ranking**
+
+<img src="./assets/goctf.jpg" width="850">
+
+</div>
+
+<br>
+
+---
+
+<!-- Kaspersky CTF -->
+
+<div align="center">
+
+[![Kaspersky CTF](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=600&size=22&speed=100000&pause=100000&color=EC4899&center=true&vCenter=true&width=700&height=40&lines=Kaspersky+CTF)](https://git.io/typing-svg)
+
+Team: **scandal**
+
+<img src="./assets/kasperskyctf.jpg" width="850">
+
+</div>
+
+<br>
+
+---
+
+<!-- Hi-Tech 2025 -->
+
+<div align="center">
+
+[![Hi-Tech Future Skills 2025](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=600&size=22&speed=100000&pause=100000&color=EC4899&center=true&vCenter=true&width=700&height=40&lines=Hi-Tech+Future+Skills+2025+%E2%80%94+2nd+Place)](https://git.io/typing-svg)
+
+**Aerial Robotics · Yekaterinburg, Russia**
+
+**2nd place — National Ranking**
+Skills Passport: **75.05 / 100**
+
+[Diploma](./assets/hitech_2025_diploma.pdf) ·
+[Participant Certificate](./assets/hitech_2025_participant_certificate.pdf) ·
+[Skills Passport](./assets/hitech_2025_project_passport.pdf)
+
+</div>
+
+<br>
+
+</details>
+
+---
+
+<div align="center">
+
 [![Tech Stack](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=500&size=24&speed=80&deleteSpeed=120&pause=2000&color=EC4899&center=true&vCenter=true&width=500&height=50&lines=Tech+Stack)](https://git.io/typing-svg)
 
 </div>
@@ -65,9 +219,11 @@ var me = Takuya{
         Other:      []string{"Git", "ROS", "MinIO", "SeaweedFS", "ODM"},
     },
     Security: []string{
-        "CTF (Attack/Defense) enjoyer",
-        "Bug bounty hunter",
-        "Team: o1d_bu7_go1d (Scandal)",
+        "Application Security",
+        "Web & API Security",
+        "Bug Bounty / Vulnerability Research",
+        "CTF: Attack/Defense & Jeopardy",
+        "Team: o1d_bu7_go1d (scandal)",
     },
 }
 ```
