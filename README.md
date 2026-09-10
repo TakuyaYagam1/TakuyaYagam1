@@ -35,7 +35,7 @@
 
 <div align="center">
 
-[![Hi-Tech Future Skills 2026](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=600&size=22&speed=100000&pause=100000&color=EC4899&center=true&vCenter=true&width=700&height=40&lines=Hi-Tech+Future+Skills+2026+%E2%80%94+Gold+Medal)](https://git.io/typing-svg)
+[![Hi-Tech Future Skills 2026](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=600&size=22&speed=100000&pause=100000&color=EC4899&center=true&vCenter=true&width=700&height=40&lines=Hi-Tech+Future+Skills+2026+%E2%80%94+1st+Place)](https://git.io/typing-svg)
 
 **Cyber Security · Guangzhou, China**
 
