@@ -240,6 +240,6 @@ var me = Takuya{
 
 <a href="https://github.com/TakuyaYagam1"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TakuyaYagam1&langs_count=10&size_weight=0.5&count_weight=0.5&hide=html,css,scss,roff,makefile&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=86400" alt="Top Languages" /></a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TakuyaYagam1&theme=react-dark&hide_border=true&bg_color=1c1917&color=ec4899&line=a855f7&point=ffffff&area=true&area_color=ec4899" alt="TakuyaYagam1's Activity Graph" />
+<img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=TakuyaYagam1&theme=react-dark&hide_border=true&bg_color=1c1917&color=ec4899&line=a855f7&point=ffffff&area=true&area_color=ec4899" alt="TakuyaYagam1's Activity Graph" />
 
 </div>
