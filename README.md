@@ -74,11 +74,9 @@ Security Analysis: **100 / 100** · High Technology: **100 / 100**
 
 **Jeopardy CTF · Global Qualification**
 
-Team: **B4**
-
-**1st place — 9,411 points**
-
 **Qualified for the onsite finals in Tunisia**
+
+Team: **B4**
 
 <img src="./assets/securinets.png" width="850" alt="Securinets CTF Quals 2026 — 1st Place">
 
