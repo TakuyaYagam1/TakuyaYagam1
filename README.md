@@ -65,6 +65,29 @@ Security Analysis: **100 / 100** · High Technology: **100 / 100**
 
 ---
 
+
+<!-- Securinets CTF Quals 2026 -->
+
+<div align="center">
+
+[![Securinets CTF Quals 2026](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=600&size=22&speed=100000&pause=100000&color=EC4899&center=true&vCenter=true&width=700&height=40&lines=Securinets+CTF+Quals+2026+%E2%80%94+1st+Place)](https://git.io/typing-svg)
+
+**Jeopardy CTF · Global Qualification**
+
+Team: **B4**
+
+**1st place — 9,411 points**
+
+**Qualified for the onsite finals in Tunisia**
+
+<img src="./assets/securinets.png" width="850" alt="Securinets CTF Quals 2026 — 1st Place">
+
+</div>
+
+<br>
+
+---
+
 <!-- TFC CTF 2026 -->
 
 <div align="center">
