@@ -136,16 +136,38 @@ Team: **o1d_bu7_go1d (scandal)**
 
 ---
 
+<!-- GO CTF 2026 Final -->
+
+<div align="center">
+
+[![GO CTF 2026 Final](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=600&size=22&speed=100000&pause=100000&color=EC4899&center=true&vCenter=true&width=700&height=40&lines=GO+CTF+2026+Final+-+1st+Place)](https://git.io/typing-svg)
+
+**Academic Ranking Final**
+Team: **o1d_bu7_go1d**
+
+**1st place - 22,066.91 points**
+
+<img src="./assets/goctf_final.jpg" width="850" alt="GO CTF 2026 final scoreboard">
+
+<br><br>
+
+<img src="./assets/goctf_award.png" width="480" alt="GO CTF 2026 academic final award">
+
+</div>
+
+<br>
+
+---
+
 <!-- GO CTF 2026 -->
 
 <div align="center">
 
 [![GO CTF 2026](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=600&size=22&speed=100000&pause=100000&color=EC4899&center=true&vCenter=true&width=700&height=40&lines=GO+CTF+2026+%E2%80%94+Finalist)](https://git.io/typing-svg)
 
-**Attack / Defense CTF**
+**task-based CTF**
 Team: **o1d_bu7_go1d**
 
-**1st place — Academic Ranking**
 **3rd place — Overall Qualification Ranking**
 
 <img src="./assets/goctf.jpg" width="850">
